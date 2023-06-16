@@ -1,11 +1,11 @@
-About r-oro.nifti
-=================
+About r-oro.nifti-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-oro.nifti-feedstock/blob/main/LICENSE.txt)
 
 Home: https://rigorousanalytics.blogspot.com
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-oro.nifti-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for the input/output and visualization of medical imaging data that follow
 either the 'ANALYZE', 'NIfTI' or 'AFNI' formats.  This package is part of the Rigorous
