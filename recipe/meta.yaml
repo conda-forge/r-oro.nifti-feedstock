@@ -1,6 +1,5 @@
 {% set version = '0.11.4' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-oro.nifti
@@ -13,8 +12,7 @@ source:
   sha256: efe4f5d2c2e37ff6c3e9250f54ef775e4d452c1334f781f22f219ed53148b606
 
 build:
-  merge_build_host: True  # [win]
-  number: 1
+  number: 2
   noarch: generic
   rpaths:
     - lib/R/lib/
